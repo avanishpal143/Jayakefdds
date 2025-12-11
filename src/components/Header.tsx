@@ -19,7 +19,7 @@ export default function Header() {
           <div className="flex-shrink-0 p-2">
             <div className="w-24 h-20 sm:w-28 sm:h-24 lg:w-32 lg:h-28 overflow-hidden rounded-lg bg-white shadow-sm border border-gray-100">
               <img
-                src="/_Jayakefdds.ico"
+                src="/_jayakefdds.png"
                 alt="Jayakefdds"
                 className="w-full h-full object-cover object-center"
               />

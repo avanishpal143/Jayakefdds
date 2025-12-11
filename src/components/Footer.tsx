@@ -12,7 +12,7 @@ export default function Footer() {
             <div className="flex items-center justify-center p-6 bg-white/90 backdrop-blur-sm rounded-3xl shadow-2xl border border-pink-100 hover:shadow-3xl hover:scale-105 transition-all duration-500">
               <div className="w-24 h-24 sm:w-28 sm:h-28 overflow-hidden rounded-2xl bg-white shadow-inner">
                 <img
-                  src="/_Jayakefdds.ico"
+                  src="/_jayakefdds.png"
                   alt="Jayakefdds"
                   className="w-full h-full object-cover object-center"
                 />
