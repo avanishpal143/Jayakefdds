@@ -17,11 +17,13 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-28">
           <div className="flex-shrink-0 p-2">
-            <img
-              src="/_jayakefdds.png"
-              alt="Jayakefdds"
-              className="h-24 sm:h-28 lg:h-32 w-auto"
-            />
+            <div className="w-24 h-20 sm:w-28 sm:h-24 lg:w-32 lg:h-28 overflow-hidden rounded-lg bg-white shadow-sm border border-gray-100">
+              <img
+                src="/_Jayakefdds.ico"
+                alt="Jayakefdds"
+                className="w-full h-full object-cover object-center"
+              />
+            </div>
           </div>
 
           <nav className="hidden lg:flex items-center space-x-8">
