@@ -17,12 +17,10 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-28">
           <div className="flex-shrink-0 p-2">
-            <div className="w-24 h-20 sm:w-28 sm:h-24 lg:w-32 lg:h-28 overflow-hidden rounded-lg bg-white shadow-sm border border-gray-100">
-              <img
-                src="/_jayakefdds.png"
-                alt="Jayakefdds"
-                className="w-full h-full object-cover object-center"
-              />
+            <div className="flex items-center justify-center px-3 py-2 bg-white rounded-lg shadow-sm border border-gray-100">
+              <span className="text-lg sm:text-xl lg:text-2xl font-bold text-gray-800 tracking-wide">
+                Jayakefdds
+              </span>
             </div>
           </div>
 

@@ -9,14 +9,10 @@ export default function Footer() {
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row items-center justify-between space-y-8 md:space-y-0">
           <div className="flex flex-col items-center space-y-4">
-            <div className="flex items-center justify-center p-6 bg-white/90 backdrop-blur-sm rounded-3xl shadow-2xl border border-pink-100 hover:shadow-3xl hover:scale-105 transition-all duration-500">
-              <div className="w-24 h-24 sm:w-28 sm:h-28 overflow-hidden rounded-2xl bg-white shadow-inner">
-                <img
-                  src="/_jayakefdds.png"
-                  alt="Jayakefdds"
-                  className="w-full h-full object-cover object-center"
-                />
-              </div>
+            <div className="flex items-center justify-center px-6 py-4 bg-white/90 backdrop-blur-sm rounded-3xl shadow-2xl border border-pink-100 hover:shadow-3xl hover:scale-105 transition-all duration-500">
+              <span className="text-xl sm:text-2xl font-bold text-gray-800 tracking-wide">
+                Jayakefdds
+              </span>
             </div>
             <div className="text-center">
               <h3 className="text-gray-800 font-bold text-xl mb-2">Jayakefdds</h3>
